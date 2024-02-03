@@ -1,0 +1,1 @@
+Ở lần trước simple factory đã làm rất tốt công việc, tuy nhiên nó đã vi phạm quy tắc đóng mở function trong lập trình (SOLID). Vì vậy nên factory pattern sẽ làm điều đó mà không cần phải chạm vào code
